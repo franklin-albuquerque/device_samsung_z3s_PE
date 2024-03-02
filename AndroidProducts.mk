@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_x1slte.mk
+    $(LOCAL_DIR)/lineage_z3s.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_x1slte-user \
-    lineage_x1slte-userdebug \
-    lineage_x1slte-eng
+    lineage_z3s-user \
+    lineage_z3s-userdebug \
+    lineage_z3s-eng
