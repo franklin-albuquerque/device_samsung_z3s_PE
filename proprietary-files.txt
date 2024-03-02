@@ -1,4 +1,4 @@
-# All unpinned blobs are from G980FXXSIHWKD
+# All unpinned blobs are from G988BXXSIHWKD
 # Vendor security patch level 2023-12-01
 
 # Audio
@@ -43,6 +43,7 @@ vendor/firmware/dual_cal_wide_swide.bin
 vendor/firmware/dual_cal_wide_tele.bin
 
 # Firmware
+vendor/firmware/a96t365_z3s_eur.bin
 vendor/firmware/cs35l40-bot-dsp1-spk-prot-calib.bin
 vendor/firmware/cs35l40-bot-dsp1-spk-prot.bin
 vendor/firmware/cs35l40-rcv-dsp1-spk-prot-calib.bin
@@ -51,10 +52,10 @@ vendor/firmware/cs40l20.bin
 vendor/firmware/is_lib.bin
 vendor/firmware/is_mcu_fw.bin
 vendor/firmware/is_rta.bin
-vendor/firmware/setfile_2la.bin
-vendor/firmware/setfile_2ld.bin
-vendor/firmware/setfile_3j1.bin
-vendor/firmware/setfile_gw2.bin
+vendor/firmware/setfile_2l3.bin
+vendor/firmware/setfile_gh1.bin
+vendor/firmware/setfile_hm1.bin
+vendor/firmware/setfile_imx586.bin
 
 # GPS/GNSS
 -vendor/lib64/libwrappergps.so
@@ -64,9 +65,9 @@ vendor/etc/nfc/sec_s3nsen4_hwreg.bin
 vendor/etc/nfc/sec_s3nsen4_swreg.bin
 vendor/firmware/nfc/sec_s3nsen4_firmware.bin
 
-# RIL - G981BXXSCDUJ5
--vendor/lib64/libsec-ril-dsds.so|7ed9ea9e8b4a70759f1c1dc039b847868ac38d06
--vendor/lib64/libsec-ril.so|cfc54d1a2048cbea61900cc034808e7b3ee23ad4
+# RIL - G988BXXSCDUJ5
+-vendor/lib64/libsec-ril-dsds.so|00af4905c8cf9c1b35ff6fd480f9b032164e7dd9
+-vendor/lib64/libsec-ril.so|b3b25698c480c1a73febc1dd7562b08f7345be4f
 
 # Teegris Firmware
 vendor/tee/00000000-0000-0000-0000-000000534b4d

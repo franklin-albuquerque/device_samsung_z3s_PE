@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/samsung/x1slte
+DEVICE_PATH := device/samsung/z3s
 
 # Audio
 PRODUCT_COPY_FILES += \
@@ -59,4 +59,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, device/samsung/universal9830-common/device-common.mk)
 
 # Inherit from the proprietary version
-$(call inherit-product-if-exists, vendor/samsung/x1slte/x1slte-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/z3s/z3s-vendor.mk)
