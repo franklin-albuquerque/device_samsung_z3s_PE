@@ -1,5 +1,5 @@
-# All unpinned blobs are from G988BXXSIHWKD
-# Vendor security patch level 2023-12-01
+# All unpinned blobs are from G988BXXSJHXC1
+# Vendor security patch level 2024-03-01
 
 # Audio
 vendor/etc/LVACFS_Configuration.txt
@@ -66,8 +66,8 @@ vendor/etc/nfc/sec_s3nsen4_swreg.bin
 vendor/firmware/nfc/sec_s3nsen4_firmware.bin
 
 # RIL - G988BXXSCDUJ5
--vendor/lib64/libsec-ril-dsds.so|00af4905c8cf9c1b35ff6fd480f9b032164e7dd9
--vendor/lib64/libsec-ril.so|b3b25698c480c1a73febc1dd7562b08f7345be4f
+-vendor/lib64/libsec-ril-dsds.so|cd682fd635f37d16847d2f36c798fda5c955bc5e
+-vendor/lib64/libsec-ril.so|797701c252cc72ce3cbffb2cd9d24d378f09778e
 
 # Teegris Firmware
 vendor/tee/00000000-0000-0000-0000-000000534b4d
